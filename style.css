@@ -1,0 +1,33 @@
+.title {
+font-family: sans-serif, arial;
+font-weight: 400;
+color: black;
+text-align: center;
+}
+.text {
+font-family: 'Cabin', Helvetica, Arial, sans-serif;
+font-size: 15px;
+line-height: 25px; 
+ }
+.h1 {
+font-family: 'Lobster', Georgia, Times, serif;
+font-size: 70px;
+line-height: 100px;
+}
+.h2 {
+font-family: serif, arial;
+font-weight: bold;
+}
+.blockquote {
+font-family: cursive, arial;
+font-weight: 400;
+color: red;
+background: yellow;
+}
+.footer {
+font-weight: 200;
+color: grey;
+}
+.adress {
+font-family: cursive;
+font-weight: 100;
